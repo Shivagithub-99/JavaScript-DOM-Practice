@@ -14,7 +14,7 @@ A collection of daily JavaScript DOM projects built to master frontend developme
 - ✅ 02 - Background Color Changer
 - ✅ 03 - Theme Switcher
 - ✅ 04 - To-Do List
-- 🔜 05 - Digital Clock
+- ✅ 05 - Digital Clock
 - 🔜 06 - Calculator
 - 🔜 07 - Password Generator
 - 🔜 08 - Quiz App
