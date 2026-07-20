@@ -20,6 +20,7 @@ function decrement() {
 }
 
 function reset(){
+    if(count === 0) window.alert("Already reset to zero");
     count = 0;
     counter.textContent = count;
     return
