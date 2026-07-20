@@ -46,12 +46,14 @@ setInterval(() => {
     let year = today.getFullYear();
 
     let hour12 = 0;
-
-    if(hour >12){
-        hour12 = Math.abs(hour - 12);
+    if(hour === 0){
+        hour12 = 12;
+    }
+    else if(hour >= 1 && hour <= 12){
+        hour12 = hour;
     }
     else{
-        hour12 = hour;
+        hour12 = hour - 12;
     }
 
     if(hour>=12 && hour<=23){
