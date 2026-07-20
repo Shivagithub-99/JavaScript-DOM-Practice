@@ -81,20 +81,6 @@ const quotes = [
     }
 ];
 
-// const card = document.querySelector(".quote-card");
-// const quote = document.querySelector("#quote");
-// const author = document.querySelector("#author");
-// const button = document.querySelector("button");
-// const count = document.querySelector("#count");
-
-// button.addEventListener("click", function (){
-//     let quoteNumber = Math.floor(Math.random() * quotes.length);
-//     const quoteObj = quotes[quoteNumber];
-//     quote.innerText = `" ${quoteObj.quote} "`;
-//     author.innerText = `- ${quoteObj.author}`;
-//     count.innerText = `Quote ${quoteNumber} of ${quotes.length}`;
-// });
-
 const quote = document.querySelector("#quote");
 const author = document.querySelector("#author");
 const button = document.querySelector("button");
