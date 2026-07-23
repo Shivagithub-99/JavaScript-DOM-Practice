@@ -17,6 +17,6 @@ A collection of daily JavaScript DOM projects built to master frontend developme
 - ✅ 05 - Digital Clock
 - ✅ 06 - Calculator
 - ✅ 07 - Password Generator
-- 🔜 08 - Quiz App
+- ✅ 08 - Quiz App
 - 🔜 09 - Weather App (API)
 - 🔜 10 - Notes App (localStorage)
